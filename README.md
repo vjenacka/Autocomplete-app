@@ -1,0 +1,1 @@
+Autocomplete app built with JS and JSON dummy data.
